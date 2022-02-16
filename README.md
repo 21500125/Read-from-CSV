@@ -29,5 +29,8 @@ print("number of rows),len(df.axes[1]))
 ## OUTPUT:
 ![sh](https://user-images.githubusercontent.com/94219582/153771226-4f89a283-20bb-4630-9ce3-07a8d07b1747.jpeg)
 ```
+## OUTPUT:
+![py](https://user-images.githubusercontent.com/94219582/154326520-042c92b3-f0ee-4a21-b7ce-56bbe0c08e7c.png)
+
 ## RESULT:
 Thus the python program runs successfully
