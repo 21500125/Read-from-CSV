@@ -15,6 +15,11 @@ check your systems maximum colum with the pd.options.display.max_colums statemen
 ### Step 5:
 increase the maximum number of rows to display the entire data frame
 ## PROGRAM:
+```
+'''
+Developed by: Sithi hajara I 
+RegisterNumber:21500125
+'''
 import pandas as pd
 df = pd.read_csv('data.csv')
 print(df.head(10))
@@ -23,6 +28,6 @@ print("number of colum ",len(df.axes[0]))
 print("number of rows),len(df.axes[1]))
 ## OUTPUT:
 ![sh](https://user-images.githubusercontent.com/94219582/153771226-4f89a283-20bb-4630-9ce3-07a8d07b1747.jpeg)
-
+```
 ## RESULT:
 Thus the python program runs successfully
